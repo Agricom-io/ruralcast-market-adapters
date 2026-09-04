@@ -1,4 +1,6 @@
-# ruralcast-market-adapters
+
+
+[![tests](https://github.com/Agricom-io/ruralcast-market-adapters/actions/workflows/ci.yml/badge.svg)](https://github.com/Agricom-io/ruralcast-market-adapters/actions/workflows/ci.yml)# ruralcast-market-adapters
 
 Public-data adapters for **RURALCAST** — community-governed demand-and-price market
 intelligence for rural regions (SMART ERA 2nd Open Call, Followers Micro-Pilot; Goričko,
